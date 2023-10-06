@@ -3,7 +3,7 @@ terraform {
     organization = "mikedemo1"
 
     workspaces {
-      name = "Acme-aws"
+      name = "acme-aws"
     }
   }
   required_providers {
